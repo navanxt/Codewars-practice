@@ -11,3 +11,7 @@ Your task is to calculate how many blank pages do you need.
 2.Beginner series #2 Clock :
 Clock shows 'h' hours, 'm' minutes and 's' seconds after midnight.
 Your task is to make 'Past' function which returns time converted to milliseconds.
+
+3.Beginner series #3 Sum of numbers :
+Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b.
+Note: a and b are not ordered!
