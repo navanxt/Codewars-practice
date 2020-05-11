@@ -16,3 +16,6 @@ Note: a and b are not ordered!
 
 4.Beginner series #4 Cockroach :
 The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
+
+5.Beginner series #5 Triangular numbers :
+Triangular number is the amount of points that can fill equilateral triangle. Given a number 'T' from interval [1; 2147483646], find if it is triangular number or not.
