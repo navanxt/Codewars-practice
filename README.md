@@ -19,3 +19,7 @@ The cockroach is one of the fastest insects. Write a function which takes its sp
 
 5.Beginner series #5 Triangular numbers :
 Triangular number is the amount of points that can fill equilateral triangle. Given a number 'T' from interval [1; 2147483646], find if it is triangular number or not.
+
+6.Find the first non-consecutive number :
+Your task is to find the first element of an array that is not consecutive.
+By not consecutive we mean not exactly 1 larger than the previous element of the array.If the whole array is consecutive then return 'None'.
