@@ -26,3 +26,7 @@ By not consecutive we mean not exactly 1 larger than the previous element of the
 7.Take the derivative :
 This function takes two numbers as parameters, the first number being the coefficient, and the second number being the exponent.
 Your function should multiply the two numbers, and then subtract 1 from the exponent. Then, it has to print out an expression (like ax^b).
+
+8.Expressions matter :
+Given three integers a ,b ,c, return the largest number obtained after inserting the following operators and brackets: +, *, ()
+In other words , try every combination of a,b,c with [*+()] , and return the Maximum Obtained
