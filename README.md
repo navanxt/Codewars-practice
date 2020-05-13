@@ -12,7 +12,6 @@ Your task is to make 'Past' function which returns time converted to millisecond
 
 3.Beginner series #3 Sum of numbers :
 Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b.
-Note: a and b are not ordered!
 
 4.Beginner series #4 Cockroach :
 The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
@@ -23,3 +22,7 @@ Triangular number is the amount of points that can fill equilateral triangle. Gi
 6.Find the first non-consecutive number :
 Your task is to find the first element of an array that is not consecutive.
 By not consecutive we mean not exactly 1 larger than the previous element of the array.If the whole array is consecutive then return 'None'.
+
+7.Take the derivative :
+This function takes two numbers as parameters, the first number being the coefficient, and the second number being the exponent.
+Your function should multiply the two numbers, and then subtract 1 from the exponent. Then, it has to print out an expression (like ax^b).
