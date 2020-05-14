@@ -33,3 +33,7 @@ In other words , try every combination of a,b,c with [*+()] , and return the Max
 
 9.Total amount of points :
 Our football team finished the championship. The result of each match look like "x:y". Results of all matches are recorded in the collection.Write a function that takes such collection and counts the points of our team in the championship. Rules for counting points for each match: if x>y - 3 points, if x<y - 0 point, if x=y - 1 point.
+
+10.Abbreviate a two word name :
+Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
+The output should be two capital letters with a dot separating them.
