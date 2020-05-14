@@ -29,4 +29,7 @@ Your function should multiply the two numbers, and then subtract 1 from the expo
 
 8.Expressions matter :
 Given three integers a ,b ,c, return the largest number obtained after inserting the following operators and brackets: +, *, ()
-In other words , try every combination of a,b,c with [*+()] , and return the Maximum Obtained
+In other words , try every combination of a,b,c with [*+()] , and return the Maximum Obtained.
+
+9.Total amount of points :
+Our football team finished the championship. The result of each match look like "x:y". Results of all matches are recorded in the collection.Write a function that takes such collection and counts the points of our team in the championship. Rules for counting points for each match: if x>y - 3 points, if x<y - 0 point, if x=y - 1 point.
