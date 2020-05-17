@@ -40,3 +40,6 @@ The output should be two capital letters with a dot separating them.
 
 11. Array plus array :
 Get the sum of two arrays, ie, the sum of all their elements. P.S. Each array includes only integer numbers. Output is a number too.
+
+12. Sum of positive :
+You get an array of numbers, return the sum of all of the positives ones. If there is nothing to sum, the sum is default to 0.
