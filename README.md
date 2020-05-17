@@ -37,3 +37,6 @@ Our football team finished the championship. The result of each match look like 
 10. Abbreviate a two word name :
 Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
 The output should be two capital letters with a dot separating them.
+
+11. Array plus array :
+Get the sum of two arrays, ie, the sum of all their elements. P.S. Each array includes only integer numbers. Output is a number too.
