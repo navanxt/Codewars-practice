@@ -43,3 +43,6 @@ Get the sum of two arrays, ie, the sum of all their elements. P.S. Each array in
 
 12. Sum of positive :
 You get an array of numbers, return the sum of all of the positives ones. If there is nothing to sum, the sum is default to 0.
+
+13. You only need one :
+You will be given an array a and a value x. All you need to do is check whether the provided array contains the value. Array can contain numbers or strings. X can be either. Return true if the array contains the value, false if not.
