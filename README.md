@@ -48,4 +48,4 @@ You get an array of numbers, return the sum of all of the positives ones. If the
 You will be given an array a and a value x. All you need to do is check whether the provided array contains the value. Array can contain numbers or strings. X can be either. Return true if the array contains the value, false if not.
 
 14. Is the string uppercase :
-Create a method is_uppercase() to see whether the string is ALL CAPS.
+Create a method is_uppercase() to see whether the string is ALL CAPS. In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
