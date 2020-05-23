@@ -49,3 +49,5 @@ You will be given an array a and a value x. All you need to do is check whether 
 
 14. Is the string uppercase :
 Create a method is_uppercase() to see whether the string is ALL CAPS. In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
+
+15. Is it even :
