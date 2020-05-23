@@ -51,3 +51,4 @@ You will be given an array a and a value x. All you need to do is check whether 
 Create a method is_uppercase() to see whether the string is ALL CAPS. In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
 
 15. Is it even :
+In this Kata we are passing a number (n) into a function. Your code will determine if the number passed is even (or not). The function needs to return either a true or false. Numbers may be positive or negative, integers or floats. Floats are considered UNeven for this kata.
