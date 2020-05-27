@@ -61,3 +61,5 @@ A hero is on his way to the castle to complete his mission. However, he's been t
 Return True if yes, False otherwise :)
 
 18. Watermelon :
+One hot summer day Pete and his friend Billy decided to buy watermelons. They chose the biggest crate. They rushed home, dying of thirst, and decided to divide their loot, however they faced a hard problem.
+Pete and Billy are great fans of even numbers, that's why they want to divide the number of watermelons in such a way that each of the two parts consists of an even number of watermelons. However, it is not obligatory that the parts are equal.
