@@ -11,7 +11,7 @@ Clock shows 'h' hours, 'm' minutes and 's' seconds after midnight.
 Your task is to make 'Past' function which returns time converted to milliseconds.
 
 3. Beginner series #3 Sum of numbers :
-Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b.
+Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b
 
 4. Beginner series #4 Cockroach :
 The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
