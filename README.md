@@ -1,6 +1,6 @@
 # Codewars-practice
 
-### This repo consists of all the programs that I did in https://www.codewars.com
+## This repo consists of all the programs that I did in https://www.codewars.com
 
 1. Beginner series #1 School paperwork :
 Your classmates asked you to copy some paperwork for them. You know that there are 'n' classmates and the paperwork has 'm' pages.
