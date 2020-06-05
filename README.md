@@ -1,4 +1,4 @@
-# Codewars-practice
+# Codewars-practic
 
 ### This repo consists of all the programs that I did in https://www.codewars.com
 
