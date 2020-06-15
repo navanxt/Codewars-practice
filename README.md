@@ -68,3 +68,14 @@ Pete and Billy are great fans of even numbers, that's why they want to divide th
 You are provided with array of positive non-zero ints and int n representing n-th power (n >= 2). For the given array, calculate the sum of each value to the n-th power. Then subtract the sum of the original array.
 
 20. Scrabble score :
+Write a program that, given a word, computes the scrabble score for that word.
+Letter Values
+You'll need these:
+Letter                           Value
+A, E, I, O, U, L, N, R, S, T       1
+D, G                               2
+B, C, M, P                         3
+F, H, V, W, Y                      4
+K                                  5
+J, X                               8
+Q, Z                               10
