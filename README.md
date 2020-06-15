@@ -67,4 +67,4 @@ Pete and Billy are great fans of even numbers, that's why they want to divide th
 19. Nth power rules them all! :
 You are provided with array of positive non-zero ints and int n representing n-th power (n >= 2). For the given array, calculate the sum of each value to the n-th power. Then subtract the sum of the original array.
 
-20.
+20. Scrabble score :
